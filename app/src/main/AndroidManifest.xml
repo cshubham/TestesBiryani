@@ -2,9 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
 
     <application
+            android:name=".TestesApplication"
             android:allowBackup="true"
             android:dataExtractionRules="@xml/data_extraction_rules"
             android:fullBackupContent="@xml/backup_rules"
@@ -14,6 +20,34 @@
             android:supportsRtl="true"
             android:theme="@style/Theme.TestesBiryani"
             tools:targetApi="31">
+        <activity
+                android:name=".uipost.MainActivity5"
+                android:exported="true" >
+
+
+        </activity>
+        <activity
+                android:name=".MainActivity4"
+                android:allowTaskReparenting="true"
+                android:exported="true"
+                android:taskAffinity="com.ex" >
+
+        </activity>
+        <activity
+                android:name=".MainActivity3"
+                android:exported="false"
+                android:theme="@style/Theme.TestesBiryani" />
+
+        <meta-data
+                android:name="camera_provider_metadata"
+                android:value="use_camera_provider" />
+
+        <activity
+                android:name=".MainActivity2"
+                android:exported="true"
+                android:launchMode="singleTask"
+                android:taskAffinity="com.ex"
+                android:theme="@style/Theme.AppCompat.Light"></activity>
         <activity
                 android:name=".MainActivity"
                 android:exported="true"
@@ -25,6 +59,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name=".MyIntentService" />
+        <service
+                android:name=".MyService"
+                android:enabled="true"
+                android:foregroundServiceType="shortService|mediaProcessing" />
     </application>
 
 </manifest>

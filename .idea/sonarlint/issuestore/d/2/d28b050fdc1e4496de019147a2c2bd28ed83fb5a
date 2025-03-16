@@ -1,5 +1,59 @@
 
-_kotlin:S1128"Remove this unused import.( ―–8εΓΘ³2J$d65a9691-142d-4d6c-b13e-28c872749144
-dkotlin:S1128"Remove this unused import.(½ωÒ»ÿÿÿÿÿ8χΊΖ³2J$8aa7c0db-0691-4937-97c8-d8d9029c6576
-dkotlin:S1128"Remove this unused import.(¬αΎÿψÿÿÿÿ8χΊΖ³2J$61c7a5ed-6a65-48bb-81b2-f0ef8c0f2c06
-_kotlin:S1128"Remove this unused import.(Π¶έ8χΊΖ³2J$4e530309-c3b9-4e06-b4a9-ac83660c8a5d
+zkotlin:S1172Ν"4Use "_" instead of this unused lambda parameter "o".(Οªµΰ8Ισμ±Χ2J$47b04c6d-1451-42fe-a395-3b4017f93d87
+hkotlin:S125r"Remove this commented out code.(³ούÿÿÿÿ8Ϋσμ±Χ2J$ba3dc958-2bbb-48b9-90e8-b9ffeec63aef
+hkotlin:S125u"Remove this commented out code.(Λµϋλόÿÿÿÿ8άσμ±Χ2J$fbb07a81-772a-4e3f-9cec-8355ea14eb08
+ikotlin:S125‰"Remove this commented out code.(Ύί²Ρύÿÿÿÿ8ήσμ±Χ2J$e8b2e515-1045-47df-bb5f-7d79ca82abe3
+dkotlin:S125"Remove this commented out code.(Ξό­΄8ασμ±Χ2J$8f119caa-651f-4f08-8acd-d7f25c873a2e
+ikotlin:S125¬"Remove this commented out code.(–ςο½ϊÿÿÿÿ8ασμ±Χ2J$ce8cb22a-86b8-4b1c-b3a5-a99f39f9b640
+dkotlin:S125°"Remove this commented out code.(ζΛ±ρ8γσμ±Χ2J$3fbe40a4-b21a-46ae-8a65-ebb596af4846
+ikotlin:S125Ρ"Remove this commented out code.(Όε»…ϋÿÿÿÿ8γσμ±Χ2J$882f9e6f-e7b1-452c-8205-76dbb560dd91
+ikotlin:S125Ϋ"Remove this commented out code.(ΥλΒ•ύÿÿÿÿ8δσμ±Χ2J$3f0a4f0a-1b52-45d6-a057-7a9d7396b9c7
+ikotlin:S125ψ"Remove this commented out code.(ΐ©Φόϊÿÿÿÿ8εσμ±Χ2J$77cd4b65-9c3b-44e3-8b0c-f4897de8c0ec
+ikotlin:S125"Remove this commented out code.(ϊσυόÿÿÿÿ8εσμ±Χ2J$05966652-4549-45fe-87c7-5f330633ed4d
+dkotlin:S125ε"Remove this commented out code.(¬ψ‘…8εσμ±Χ2J$fef72bc5-edd0-47a1-a15b-f045ecb2b318
+ikotlin:S125”"Remove this commented out code.(”ΚΥλÿÿÿÿÿ8ζσμ±Χ2J$2535ec9d-bf63-446e-857f-297fb753a8c2
+dkotlin:S125"Remove this commented out code.(Σ¥Φη8ζσμ±Χ2J$d721a691-48de-439e-ae9d-a0d546000246
+ikotlin:S125£"Remove this commented out code.(η¨νÿÿÿÿÿ8ησμ±Χ2J$47b15bd0-71a5-4c55-8c68-04a4b3a440b9
+ikotlin:S125―"Remove this commented out code.(ΧΎ›³ώÿÿÿÿ8ησμ±Χ2J$58f85ea4-3d8a-47fc-88a0-04c89520dff2
+ikotlin:S125½"Remove this commented out code.(ΑΆαμψÿÿÿÿ8θσμ±Χ2J$001737df-fae6-4e92-9cb7-47d932e86b1a
+dkotlin:S125ά"Remove this commented out code.(ωΊηΣ8θσμ±Χ2J$47b7c5cb-5fff-44a3-900b-1e87aa9eeca2
+dkotlin:S125γ"Remove this commented out code.(Υω€8θσμ±Χ2J$5e7bac35-5ff1-478b-aa17-99e7659c8508
+ikotlin:S125ν"Remove this commented out code.(³ΎφΎÿÿÿÿÿ8ισμ±Χ2J$319892fd-b94e-458e-81c4-89a0ef154a8c
+dkotlin:S125ς"Remove this commented out code.(ξ¨‡²8ισμ±Χ2J$edb18a59-48eb-48b9-a53f-701fe3cdb251
+ckotlin:S125—"Remove this commented out code.(ηΌΠ08ισμ±Χ2J$4d453d9e-95f5-4d5c-a08a-9d530099c61a
+dkotlin:S125ξ"Remove this commented out code.(¶®8κσμ±Χ2J$54ebd676-2ff2-45df-8f1c-c18b30fa384f
+bkotlin:S6310ψ"Avoid hardcoded dispatchers.(©ÒΥς8ψσμ±Χ2J$f260e189-06f8-4e54-85e7-b3e628578ca9
+akotlin:S6310’"Avoid hardcoded dispatchers.(©ΣW8ψσμ±Χ2J$aa927174-1a4d-48b3-866e-c9620d80a1e6
+bkotlin:S6310ν"Avoid hardcoded dispatchers.(Τ¥‚ό8ωσμ±Χ2J$fbed7aa4-83d3-4ec6-9249-ed7a145a594a
+bkotlin:S6310ί"Avoid hardcoded dispatchers.(ί” 8ωσμ±Χ2J$4a7c4259-5f1a-481d-97a1-7412b99ca999
+”kotlin:S6306™"NUsing "Job()" here leads to the breaking of structured concurrency principles.(ρ«Σ8’τμ±Χ2J$3368c7ed-d5fb-4b5d-a94e-fa0adbd973e4
+kotlin:S6306°"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(£ϊÿÿÿÿ8’τμ±Χ2J$6addea7f-d8dc-43d3-bece-d77e9d696f67
+kotlin:S6306Γ"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(£ϊÿÿÿÿ8“τμ±Χ2J$8c154f60-2752-4f95-97aa-7c3a94708091
+zkotlin:S1481©"5Remove this unused "exceptionHandler" local variable.(φΖ®8¥τμ±Χ2J$a7bb4dcc-3c2d-4c6d-b2d5-7f500e5adb45
+qkotlin:S1481γ"&Remove this unused "r" local variable.(ζΊίÿÿÿÿÿ8¥τμ±Χ2J$5e1ea5d2-a3fb-40c6-8239-bb1d8d631f6d
+ukotlin:S1481χ"/Remove this unused "pagerState" local variable.(χχλυ8¥τμ±Χ2J$ff3371e9-899e-4cfc-a575-8b3bde6dca24
+tkotlin:S1481®")Remove this unused "list" local variable.(ϋδ½ήώÿÿÿÿ8¥τμ±Χ2J$e2dc0d91-35a1-4e37-bfb3-68a27dbd3884
+zkotlin:S1481¥"/Remove this unused "sharedFlow" local variable.(ςƒκοϊÿÿÿÿ8¥τμ±Χ2J$1d42f968-deae-41b5-9593-ee767679fb1e
+wkotlin:S1481¤"2Remove this unused "emitFlowCheck" local variable.(ά•a8¥τμ±Χ2J$a7dc106a-0099-433b-bdeb-93483ee5e187
+skotlin:S1481΅"-Remove this unused "printVal" local variable.(κΜÒΟ8¥τμ±Χ2J$a0b87d3a-6d43-4ae2-8392-666ba9cb262b
+tkotlin:S1481ζ")Remove this unused "job3" local variable.(†›¤ÿÿÿÿÿ8¦τμ±Χ2J$682491be-cec6-4e21-9588-044963b464a3
+okotlin:S1481ί")Remove this unused "job2" local variable.(ί” 8¦τμ±Χ2J$2ce476d9-268b-40cc-8886-8224e5801323
+okotlin:S1481Ò")Remove this unused "job1" local variable.(·ƒψΝ8¦τμ±Χ2J$874b5da6-bf36-4711-bdae-f0f739b71c87
+tkotlin:S1481Ρ".Remove this unused "parentJob" local variable.(Θήψφ8¦τμ±Χ2J$e7de488a-d19b-4fc1-a231-9db08c56d5b4
+_kotlin:S1128
+"Remove this unused import.(εε8Έτμ±Χ2J$8553635c-104c-40e7-b086-524cd4ae2128
+_kotlin:S1128"Remove this unused import.(›«Μχ8Έτμ±Χ2J$f4314805-085d-45d3-aa7d-acc08c3d827a
+dkotlin:S1128"Remove this unused import.(»ζψ—ωÿÿÿÿ8Έτμ±Χ2J$44bfe571-d9a6-4b2a-9fa7-44f40fe55d83
+dkotlin:S1128"Remove this unused import.(½ωÒ»ÿÿÿÿÿ8Έτμ±Χ2J$2514e112-df00-4a70-ac64-f3e8e534cda4
+_kotlin:S1128"Remove this unused import.(™ςζά8Έτμ±Χ2J$f84fc7dd-6a22-43ad-acf1-6744addb7a69
+_kotlin:S1128 "Remove this unused import.(Ιδ…8Έτμ±Χ2J$a1e5896d-6676-48fc-a7ab-259db4fff45b
+dkotlin:S1128)"Remove this unused import.(ΟυΑήώÿÿÿÿ8Έτμ±Χ2J$64034fff-9bb5-4d6b-a119-f7a53112f854
+_kotlin:S11289"Remove this unused import.(Ζκό8Έτμ±Χ2J$14bfd63d-1abf-4260-a6ed-3fd2234adf7e
+_kotlin:S1128:"Remove this unused import.(ηήχ8Έτμ±Χ2J$3ff71505-aa31-43be-a89f-b99aadda8d9f
+dkotlin:S1128?"Remove this unused import.(Υ”ξψÿÿÿÿ8Έτμ±Χ2J$c2a7d457-cdf5-4126-8a78-bbc7bbf7e6a7
+_kotlin:S1128I"Remove this unused import.(τ―8Έτμ±Χ2J$c3bfd347-ab6a-403f-9561-d3fec413c3c5
+dkotlin:S1128O"Remove this unused import.(Ή²…εψÿÿÿÿ8Ήτμ±Χ2J$7a04d488-883b-4631-a71d-fb6bbd33dd30
+dkotlin:S1128U"Remove this unused import.(ΎμΜύÿÿÿÿ8Ήτμ±Χ2J$cee66b45-abf8-48bb-b2b0-814d52653417
+dkotlin:S1128X"Remove this unused import.(†Θ³ÿώÿÿÿÿ8Ήτμ±Χ2J$644f1116-a56d-4490-8f4b-bc25f3507e40
+dkotlin:S1128Z"Remove this unused import.(Ρ®•όÿÿÿÿ8Ήτμ±Χ2J$949bf0e4-fd82-446b-8cd6-4d552242a444
+nkotlin:S1874Κ"#Deprecated code should not be used.(όήατψÿÿÿÿ8Βτμ±Χ2J$c099f7ac-7895-49ec-b32a-3422d259fcf0

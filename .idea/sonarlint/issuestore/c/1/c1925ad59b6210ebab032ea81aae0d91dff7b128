@@ -1,0 +1,17 @@
+
+hkotlin:S125@"Remove this commented out code.(×ıÃîıÿÿÿÿ8–ŸÇÔ2J$13b651a3-fbcd-4a5c-8e52-1b5a39643cf4
+hkotlin:S125I"Remove this commented out code.(»Èï±şÿÿÿÿ8©§ğÔ2J$fa04b29e-30a1-458e-8380-82a95de7db13
+hkotlin:S125]"Remove this commented out code.(˜Ğ£¥ûÿÿÿÿ8šŸÇÔ2J$f14a4c24-8e2a-4f40-aacc-e5f10056c1a0
+dkotlin:S125"Remove this commented out code.(ÚÃÈæ8›ŸÇÔ2J$d49589e3-7d11-4ce1-8860-19ab3cdaf576
+ikotlin:S125µ"Remove this commented out code.(»ª“ïùÿÿÿÿ8æÈãÔ2J$98ece1df-e143-487c-b008-fe2e0f9232b5
+ikotlin:S125Î"Remove this commented out code.(üµ¢Áúÿÿÿÿ8ŸÇÔ2J$11debcbd-8d92-4b55-ba26-fd8d5aaf3b0b
+gkotlin:S6310¥"Avoid hardcoded dispatchers.(¨ÜÄŠûÿÿÿÿ8¡ŸÇÔ2J$9167599c-b765-4c59-bc6f-689d7dacf4bd
+gkotlin:S6310Í"Avoid hardcoded dispatchers.(ÑÄŞáÿÿÿÿÿ8¡ŸÇÔ2J$19fa87ed-e0db-4b0c-b880-0858d8be8a8b
+}kotlin:S1144p"8Remove this unused private "checkCounterUpdates" method.(À ù8­§ğÔ2J$28405c97-3428-4a99-99e9-43416e2d2038
+~kotlin:S1144x"9Remove this unused private "checkCounterUpdates2" method.(¿Ã›8­§ğÔ2J$cbc8eddc-0376-4698-b8d8-b45b1ff52786
+ˆkotlin:S1144”"=Remove this unused private "checklaunchInRunBlocking" method.(µ¹èÓüÿÿÿÿ8£ŸÇÔ2J$ce0db883-4920-4804-b6d0-bf03385e34eb
+dkotlin:S6305;" Don't expose mutable flow types.(º®R8¦ŸÇÔ2J$00669150-134a-440f-b19b-3b80f5222874
+ekotlin:S6305<" Don't expose mutable flow types.(©®şç8¦ŸÇÔ2J$02298221-40c8-4e12-95ee-f094ad0c4816
+qkotlin:S1481"&Remove this unused "i" local variable.(İ£äÍÿÿÿÿÿ8©ŸÇÔ2J$22633683-aa85-4abf-9c13-2c0a61e0b9ca
+nkotlin:S1481ƒ"(Remove this unused "job" local variable.(Õ«½Ü8©ŸÇÔ2J$d3ee9029-28ef-4766-911d-46363156fcd4
+_kotlin:S1128"Remove this unused import.(Ö¯Ş”8¬ŸÇÔ2J$acbda5ed-79f9-47da-9fdd-f1bb5cee4ea9
